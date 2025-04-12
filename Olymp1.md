@@ -56,6 +56,7 @@ public class Main {
 <details>
 <summary>подсмотреть</summary>
 
+
 ```java
 import java.util.Scanner;
 
@@ -88,6 +89,7 @@ public class Sum {
 **Решение:**  
 <details>
 <summary>подсмотреть</summary>
+
 
 ```java
 import java.util.Scanner;
@@ -124,6 +126,7 @@ public class MinNumber {
 **Решение:**  
 <details>
 <summary>подсмотреть</summary>
+
 
 ```java
 import java.util.Scanner;
@@ -240,6 +243,7 @@ public class BubbleSort {
 <details>
 <summary>подсмотреть</summary>
 
+
 ```java
 import java.util.Scanner;
 
@@ -269,6 +273,7 @@ public class Divisors {
 **Решение:**  
 <details>
 <summary>подсмотреть</summary>
+
 
 ```java
 import java.util.Scanner;
