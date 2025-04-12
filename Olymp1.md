@@ -53,8 +53,8 @@ public class Main {
 Даны два числа. Выведите их сумму.  
 
 **Решение:**  
-<details>
-<summary>подсмотреть</summary>
+
+
 
 
 ```java
@@ -69,7 +69,7 @@ public class Sum {
     }
 }
 ```
-</details>
+
 
 **Ввод:**  
 ```
@@ -87,8 +87,8 @@ public class Sum {
 Даны три числа. Найдите минимальное.  
 
 **Решение:**  
-<details>
-<summary>подсмотреть</summary>
+
+
 
 
 ```java
@@ -106,7 +106,7 @@ public class MinNumber {
     }
 }
 ```
-</details>
+
 
 **Ввод:**  
 ```
@@ -124,8 +124,8 @@ public class MinNumber {
 Дано число `N`. Выведите все четные числа от 1 до N.  
 
 **Решение:**  
-<details>
-<summary>подсмотреть</summary>
+
+
 
 
 ```java
@@ -142,7 +142,7 @@ public class EvenNumbers {
     }
 }
 ```
-</details>
+
 
 **Ввод:**  
 ```
@@ -240,8 +240,8 @@ public class BubbleSort {
 Дано число N. Найдите, сколько у него делителей.  
 
 **Решение:**  
-<details>
-<summary>подсмотреть</summary>
+
+
 
 
 ```java
@@ -263,7 +263,7 @@ public class Divisors {
     }
 }
 ```
-</details>
+
 
 ---
 
@@ -271,8 +271,8 @@ public class Divisors {
 Дано слово. Определите, является ли оно палиндромом.  
 
 **Решение:**  
-<details>
-<summary>подсмотреть</summary>
+
+
 
 
 ```java
@@ -295,7 +295,7 @@ public class Palindrome {
     }
 }
 ```
-</details>
+
 
 ---
 
